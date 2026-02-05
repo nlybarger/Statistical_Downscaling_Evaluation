@@ -1,7 +1,9 @@
 Suite of Python scripts and Jupyter notebooks for the evaluation and ranking of statistically 
 downscaled CMIP5 datasets based on an extensive metric suite, as well as plotting figures 
 corresponding to the description in Lybarger et al., (2026).
+
 Much of the metrics data is hosted on a public facing website at https://hydro.rap.ucar.edu/hydro-climate-eval
+
 The documentation and description of this website can be found at https://github.com/NCAR/hydro-climate-evaluation
 
 Each scripts folder performs one aspect of the analysis. Within each of these, there are 
@@ -11,6 +13,7 @@ create multiple copies of these templates for crude parallelization across HPC n
 
 
 scripts.Preprocess_Climate_Data:
+
   These scripts have hard-coded paths to observational datasets, downscaled CMIP5 datasets,
   raw CMIP5 data, CESM2-LE data, and GARD-LENS data. These would be very difficult to
   customize for an HPC environment other than NCAR Glade. Essentially, these scripts take
@@ -20,7 +23,9 @@ scripts.Preprocess_Climate_Data:
   data, CESM2-LE data, and ERA5, this includes removing leap days, regridding to a common 1
   degree grid (for WT applications), and trimming to the common temporal era.
 
-scripts.Compute_Weather_Types
+
+scripts.Compute_Weather_Types:
+
   These scripts use that preprocessed data to perform the weather typing analysis described
   in the paper. The optimal cluster test is performed to determine the meteorological
   variables that maximize cross-WT variance in WT-average precipitation using ERA5 (1 degree) data.
@@ -33,12 +38,16 @@ scripts.Compute_Weather_Types
   Then, metrics comparing the day-to-day correspondence between the days within each WT
   and the climatological WT precipitaton are computed.
 
-scripts.Compute_CONUS_metrics
+
+scripts.Compute_CONUS_metrics:
+
   Uses the preprocessed downscaled CMIP5, GARD-LENS, and high resolution observations to compute
   the Temperature and Precipitation metrics. It also then compares the metric maps computed for
   each downscaled dataset to those computed for observations to get error metrics, that are then
   further analyzed, normalized, and plotted in scripts.Plotting.
 
-scripts.Plotting
+
+scripts.Plotting:
+
   Performs the final analyses and Figure plotting for metric normalization, uncertainty
   partitioning, method-model ranking, and climate change signal comparison.
