@@ -1,6 +1,8 @@
 Suite of Python scripts and Jupyter notebooks for the evaluation and ranking of statistically 
 downscaled CMIP5 datasets based on an extensive metric suite, as well as plotting figures 
 corresponding to the description in Lybarger et al., (2026).
+Much of the metrics data is hosted on a public facing website at https://hydro.rap.ucar.edu/hydro-climate-eval
+The documentation and description of this website can be found at https://github.com/NCAR/hydro-climate-evaluation
 
 Each scripts folder performs one aspect of the analysis. Within each of these, there are 
 generic template files that call functions stored within scripts.Functions and default 
