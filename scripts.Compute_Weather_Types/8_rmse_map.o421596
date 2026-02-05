@@ -1,0 +1,356 @@
+Starting function calls...
+|=== Beginning processing for region: Desert Southwest
+|===|=== WT: 0
+Length of ERA5 WT PR time: 184
+Length of PRISM time: 184
+Length of ERA5 WT PR time: 184
+Length of CONUS404 time: 184
+Length of ERA5 WT PR time: 184
+Length of Livneh time: 184
+Length of ERA5 WT PR time: 184
+Length of NLDAS time: 184
+Length of ERA5 WT PR time: 184
+Length of GMET time: 184
+|===|===|=== WARNING: ALIGNMENT ERROR BETWEEN ERA5 AND GMET FOR WT 0
+Length of ERA5 WT PR time: 184
+Length of nClimGrid time: 184
+Length of ERA5 WT PR time: 184
+Length of gridMET time: 184
+|===|===|=== Model: ACCESS1-3
+|===|===|=== Method: ICAR
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Model: CanESM2
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: CCSM4
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Model: MIROC5
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: MRI-CGCM3
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: NorESM1-M
+|===|===|=== Method: ICAR
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|=== WT: 1
+Length of ERA5 WT PR time: 321
+Length of PRISM time: 321
+Length of ERA5 WT PR time: 321
+Length of CONUS404 time: 321
+Length of ERA5 WT PR time: 321
+Length of Livneh time: 321
+Length of ERA5 WT PR time: 321
+Length of NLDAS time: 321
+Length of ERA5 WT PR time: 321
+Length of GMET time: 321
+|===|===|=== WARNING: ALIGNMENT ERROR BETWEEN ERA5 AND GMET FOR WT 1
+Length of ERA5 WT PR time: 321
+Length of nClimGrid time: 321
+Length of ERA5 WT PR time: 321
+Length of gridMET time: 321
+|===|===|=== Model: ACCESS1-3
+|===|===|=== Method: ICAR
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Model: CanESM2
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: CCSM4
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Model: MIROC5
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: MRI-CGCM3
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: NorESM1-M
+|===|===|=== Method: ICAR
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|=== WT: 2
+Length of ERA5 WT PR time: 185
+Length of PRISM time: 185
+Length of ERA5 WT PR time: 185
+Length of CONUS404 time: 185
+Length of ERA5 WT PR time: 185
+Length of Livneh time: 185
+Length of ERA5 WT PR time: 185
+Length of NLDAS time: 185
+Length of ERA5 WT PR time: 185
+Length of GMET time: 185
+|===|===|=== WARNING: ALIGNMENT ERROR BETWEEN ERA5 AND GMET FOR WT 2
+Length of ERA5 WT PR time: 185
+Length of nClimGrid time: 185
+Length of ERA5 WT PR time: 185
+Length of gridMET time: 185
+|===|===|=== Model: ACCESS1-3
+|===|===|=== Method: ICAR
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Model: CanESM2
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: CCSM4
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Model: MIROC5
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: MRI-CGCM3
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: NorESM1-M
+|===|===|=== Method: ICAR
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|=== WT: 3
+Length of ERA5 WT PR time: 208
+Length of PRISM time: 208
+Length of ERA5 WT PR time: 208
+Length of CONUS404 time: 208
+Length of ERA5 WT PR time: 208
+Length of Livneh time: 208
+Length of ERA5 WT PR time: 208
+Length of NLDAS time: 208
+Length of ERA5 WT PR time: 208
+Length of GMET time: 208
+|===|===|=== WARNING: ALIGNMENT ERROR BETWEEN ERA5 AND GMET FOR WT 3
+Length of ERA5 WT PR time: 208
+Length of nClimGrid time: 208
+Length of ERA5 WT PR time: 208
+Length of gridMET time: 208
+|===|===|=== Model: ACCESS1-3
+|===|===|=== Method: ICAR
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Model: CanESM2
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: CCSM4
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Model: MIROC5
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: MRI-CGCM3
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: NorESM1-M
+|===|===|=== Method: ICAR
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|=== WT: 4
+Length of ERA5 WT PR time: 318
+Length of PRISM time: 318
+Length of ERA5 WT PR time: 318
+Length of CONUS404 time: 318
+Length of ERA5 WT PR time: 318
+Length of Livneh time: 318
+Length of ERA5 WT PR time: 318
+Length of NLDAS time: 318
+Length of ERA5 WT PR time: 318
+Length of GMET time: 318
+|===|===|=== WARNING: ALIGNMENT ERROR BETWEEN ERA5 AND GMET FOR WT 4
+Length of ERA5 WT PR time: 318
+Length of nClimGrid time: 318
+Length of ERA5 WT PR time: 318
+Length of gridMET time: 318
+|===|===|=== Model: ACCESS1-3
+|===|===|=== Method: ICAR
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Model: CanESM2
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: CCSM4
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Model: MIROC5
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: MRI-CGCM3
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: NorESM1-M
+|===|===|=== Method: ICAR
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|=== WT: 5
+Length of ERA5 WT PR time: 256
+Length of PRISM time: 256
+Length of ERA5 WT PR time: 256
+Length of CONUS404 time: 256
+Length of ERA5 WT PR time: 256
+Length of Livneh time: 256
+Length of ERA5 WT PR time: 256
+Length of NLDAS time: 256
+Length of ERA5 WT PR time: 256
+Length of GMET time: 256
+|===|===|=== WARNING: ALIGNMENT ERROR BETWEEN ERA5 AND GMET FOR WT 5
+Length of ERA5 WT PR time: 256
+Length of nClimGrid time: 256
+Length of ERA5 WT PR time: 256
+Length of gridMET time: 256
+|===|===|=== Model: ACCESS1-3
+|===|===|=== Method: ICAR
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Model: CanESM2
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: CCSM4
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Model: MIROC5
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: MRI-CGCM3
+|===|===|=== Method: ICAR
+|===|===|=== Method: ICARwest
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX
+|===|===|=== Model: NorESM1-M
+|===|===|=== Method: ICAR
+|===|===|=== Method: GARD_r2
+|===|===|=== Method: GARD_r3
+|===|===|=== Method: LOCA_8th
+|===|===|=== Method: MACA
+|===|===|=== Method: NASA-NEX

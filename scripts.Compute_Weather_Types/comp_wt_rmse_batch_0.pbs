@@ -1,0 +1,22 @@
+#!/bin/bash
+### Job Name
+#PBS -N 0_rmse_map
+### Project code
+#PBS -A P48500028
+#PBS -l walltime=04:00:00
+#PBS -q casper
+### Merge output and error files
+#PBS -j oe
+#PBS -k eod
+### Select 2 nodes with 36 CPUs each for a total of 72 MPI processes
+#PBS -l select=1:ncpus=1:mpiprocs=1:mem=90GB
+
+export TMPDIR=/glade/derecho/scratch/$USER/temp
+mkdir -p $TMPDIR
+
+### Run the executable
+source ~/.bashrc
+conda activate geoanalysis
+
+cd /glade/u/home/nlybarger/scripts/downscaling/scripts.Compute_Weather_Types/
+python3 comp_wt_rmse_0.py
